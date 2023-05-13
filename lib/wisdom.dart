@@ -11,7 +11,6 @@ class Wisdom extends StatefulWidget {
 class _WisdomState extends State<Wisdom> {
   var quoteList = [
     "Don’t let yesterday take up too much of today.",
-    "If you’re going through hell, keep going.",
     "Every man dies. Not every man lives.",
     "Life shrinks or expands in proportion to one’s courage.",
     "Nothing is impossible. The word itself says “I’m possible!",
